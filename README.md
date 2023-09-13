@@ -1,6 +1,6 @@
 # meals
 
-A new Flutter project.
+App de dicas de nutrição feito em flutter.
 
 ## Getting Started
 
